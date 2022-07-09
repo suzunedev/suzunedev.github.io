@@ -9,15 +9,14 @@ body {
 }
 
 header {
-  background-color: #e8d44e;
+  background-color: #858585;
   height: 60px;
 }
 
 .title {
-  color: #858585;
+  color: #e8d44e;
   font-size: 40px;
   font-weight: bold;
-  padding-top: 2px;
   padding-left: 20px;
 }
 
@@ -42,10 +41,10 @@ main {
 footer {
   position: absolute;
   bottom: 0;
-  background-color: #e8d44e;
+  background-color: #858585;
   height: 80px;
   line-height: 80px;
   width: 100%;
-  color: #858585;
+  color: #e8d44e;
   text-align: center;
 }
