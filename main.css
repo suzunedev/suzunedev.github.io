@@ -18,8 +18,8 @@ header {
   color: #e8d44e;
   font-size: 40px;
   font-weight: bold;
+  padding-top: 4px;
   padding-left: 24px;
-  height: inherit;
 }
 
 main {
@@ -28,7 +28,7 @@ main {
 }
 
 .profile {
-  margin: 20px;
+  margin: 24px;
 }
 
 .logo {
