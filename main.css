@@ -6,16 +6,17 @@ body {
     "Hiragino Sans",
     Meiryo,
     sans-serif;
-  background-color: #dfdfdf;
+  background-color: #fbf7ed;
+  color: #42474c;
 }
 
 header {
-  background-color: #858585;
+  background-color: #fbf7ed;
   height: 60px;
 }
 
 .title {
-  color: #e8d44e;
+  color: #000000;
   font-size: 40px;
   font-weight: bold;
   padding-top: 4px;
@@ -40,13 +41,17 @@ main {
   padding-left: 15px;
 }
 
+table tr td {
+  font-weight: bold;
+}
+
 footer {
   position: absolute;
   bottom: 0;
-  background-color: #858585;
+  background-color: #fbf7ed;
   height: 80px;
   line-height: 80px;
   width: 100%;
-  color: #e8d44e;
+  color: #000000;
   text-align: center;
 }
