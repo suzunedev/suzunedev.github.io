@@ -6,12 +6,12 @@ body {
     "Hiragino Sans",
     Meiryo,
     sans-serif;
-  background-color: #fbf7ed;
-  color: #42474c;
+  background-color: #FFF7E5;
+  color: #000000;
 }
 
 header {
-  background-color: #fbf7ed;
+  background-color: #FFD700;
   height: 60px;
 }
 
@@ -48,7 +48,7 @@ table tr td {
 footer {
   position: absolute;
   bottom: 0;
-  background-color: #fbf7ed;
+  background-color: #FFF7E5;
   height: 80px;
   line-height: 80px;
   width: 100%;
